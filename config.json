@@ -8,13 +8,13 @@
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
-    "PASSWORD": "",
+    "PASSWORD": "Yubilfre5",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "Ren",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100015129697624",
+        "100008121343795"
     ],
     "DATABASE": {
         "sqlite": {
